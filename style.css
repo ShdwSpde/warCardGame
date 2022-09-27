@@ -2,10 +2,20 @@ html, body {
   height: 100%; 
   width: 100%;
   text-align: center;
+  background-image: url('https://images.cdn3.stockunlimited.net/preview1300/playing-cards-background_1608081.jpg');
 }
 
+h1 {
+  background: white;
+}
 h2{
   padding: 2vh;
   border: 3px dotted red;
   margin-top: 50px;
+  background: white;
+}
+
+h3{
+  color: greenyellow;
+  background: white;
 }
